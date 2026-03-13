@@ -1,0 +1,1 @@
+Função que soma todos os números dentro de uma lista
