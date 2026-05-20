@@ -27,7 +27,7 @@ class NewsWidget : AppWidgetProvider() {
             ).apply {
                 setTextViewText(
                R.id.student_name,
-                "Davi"
+                "Renan Santos"
                 )
                 val title = widgetData.getString(
                     "headline_title",
